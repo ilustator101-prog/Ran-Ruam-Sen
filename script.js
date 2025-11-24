@@ -188,9 +188,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 details: this.getAttribute('data-details'),
                 price: this.getAttribute('data-price'), 
                 highlight: this.getAttribute('data-highlight'),
-                hours: this.getAttribute('data-hours'),
-                phone: this.getAttribute('data-phone'),
-                parking: this.getAttribute('data-parking'),
                 tags: this.getAttribute('data-tags'),
                 images: this.getAttribute('data-images')
             });
